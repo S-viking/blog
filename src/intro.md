@@ -3,6 +3,6 @@ icon: circle-info
 cover: /assets/images/cover3.jpg
 ---
 
-# 介绍页
+# 别管我是谁了，看了也没啥信息收集，还是看今日热门吧
 
-将你的个人介绍和档案放置在此处。
+喜欢逛各种技术网站的技术海盗一名

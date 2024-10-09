@@ -4,10 +4,29 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "文章",
+      text: "JavaScript",
       icon: "book",
-      prefix: "posts/",
+      prefix: "JavaScript/",
+      collapsible: true,
+      expanded: true,
+      children: "structure",
+    },
+    {
+      text: "ES6",
+      icon: "book",
+      prefix: "ES6/",
+      collapsible: true,
+      expanded: false,
       children: "structure",
     },
   ],
+  "/posts/": [
+    "",
+    {
+      text: "今日资讯",
+      icon: "book",
+      prefix: "diary/",
+      children: "structure",
+    },
+  ]
 });
