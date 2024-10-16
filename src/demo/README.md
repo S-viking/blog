@@ -1,7 +1,7 @@
 ---
 title: 知识星系
 index: false
-icon: laptop-code
+icon: earth-asia
 category:
   - 使用指南
 ---

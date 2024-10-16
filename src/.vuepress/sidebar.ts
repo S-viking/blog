@@ -28,5 +28,13 @@ export default sidebar({
       prefix: "diary/",
       children: "structure",
     },
+  ],
+  "/mixed/": [
+    {
+      text: "技术杂谈",
+      icon: "book",
+      prefix: "article/",
+      children: "structure",
+    },
   ]
 });

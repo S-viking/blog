@@ -4,6 +4,7 @@ export default navbar([
   "/",
   "/posts/",
   "/demo/",
+  "/mixed/",
   // {
   //   text: "博文",
   //   icon: "pen-to-square",
