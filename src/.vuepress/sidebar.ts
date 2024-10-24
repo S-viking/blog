@@ -18,6 +18,14 @@ export default sidebar({
       collapsible: true,
       expanded: false,
       children: "structure",
+    },    
+    {
+      text: "Pinia",
+      icon: "book",
+      prefix: "Pinia/",
+      collapsible: true,
+      expanded: false,
+      children: "structure",
     },
   ],
   "/posts/": [
