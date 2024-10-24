@@ -37,8 +37,8 @@ sticky: true
 - nrm ls 查看可选的源，带*的是当前使用的源
 - nrm use taobao 切换到 taobao 镜像源
 - nrm test 测试镜像源的速度
-- nrm add <registry> <url> 添加自定义的镜像源
-- nrm del <registry> 删除自定义的镜像源
+- nrm add registry url 添加自定义的镜像源
+- nrm del registry 删除自定义的镜像源
 
 ### ramrif
 - rimraf 以包的形式包装rm -rf命令，用来删除文件和文件夹，不管文件夹是否为空，都可删除 
