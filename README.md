@@ -7,3 +7,4 @@ rose的博客，记录一些学习笔记
 ## 目录
 
 - JavaScript的核心点
+- ES6
