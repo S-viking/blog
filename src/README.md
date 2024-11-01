@@ -4,39 +4,20 @@ layout: BlogHome
 icon: home
 title: 主页
 heroText: ''
-heroFullScreen: true
+heroFullScreen: false
 bgImage: /assets/images/background.jpg
 tagline: ''
-# projects:
-#   - icon: project
-#     name: 项目名称
-#     desc: 项目详细描述
-#     link: /public/assets/images/cover3.jpg
+projects:
 
-#   - icon: link
-#     name: 链接名称
-#     desc: 链接详细描述
-#     link: https://链接地址
+  - icon: article
+    name: JavaScript
+    desc: JavaScript 核心知识点
+    link: http://localhost:8080/blog/JavaScript/%E5%85%A5%E9%97%A8.html
+  
+  - icon: article
+    name: ES6
+    desc: ES6 学习笔记
+    link: http://localhost:8080/blog/ES6/%E5%85%A5%E9%97%A8.html
 
-#   - icon: book
-#     name: 书籍名称
-#     desc: 书籍详细描述
-#     link: https://你的书籍链接
-
-#   - icon: article
-#     name: 文章名称
-#     desc: 文章详细描述
-#     link: https://你的文章链接
-
-#   - icon: friend
-#     name: 伙伴名称
-#     desc: 伙伴详细介绍
-#     link: https://你的伙伴链接
-
-#   - icon: https://theme-hope-assets.vuejs.press/logo.svg
-#     name: 自定义项目
-#     desc: 自定义详细介绍
-#     link: https://你的自定义链接
-
-# footer: 自定义你的页脚文字
+footer: up up up
 ---
